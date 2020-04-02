@@ -1,4 +1,3 @@
 # oop-java
 
-
-#### <em>All the learnings I learn from Object Oriented Programming (and I will continue ..)
+ <em>The learnings I learn from Object Oriented Programming (and I will continue ..)
